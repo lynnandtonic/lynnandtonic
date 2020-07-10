@@ -1,6 +1,6 @@
-![portrait in the style of Pablo Picasso](https://lynnandtonic.com/assets/images/about.svg)
+### Hi 👋
 
-Hi, I’m Lynn! I’m an artist, designer, and CSS developer making weird projects for the web.
+I’m Lynn, an artist, designer, and CSS developer making weird projects for the web.
 
 Check out some of my work:
 
