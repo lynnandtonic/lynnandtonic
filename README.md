@@ -1,16 +1,19 @@
-### Hi there 👋
+![portrait in the style of Pablo Picasso](https://lynnandtonic.com/assets/images/about.svg)
 
-<!--
-**lynnandtonic/lynnandtonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Lynn! I’m an artist, designer, and CSS developer making weird projects for the web.
 
-Here are some ideas to get you started:
+Check out some of my work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ [lynnandtonic.com](https://lynnandtonic.com) <br>
+- 🎨 [a.singlediv.com](https://a.singlediv.com) <br>
+- ✈ [airportcod.es](https://airportcod.es) <br>
+- 🔪 [topchefstats.com](https://topchefstats.com) <br>
+- 🎥 [hollywoodagegap.com](https://hollywoodagegap.com) <br>
+- 🍤 [thefoodplace.cafe](https://thefoodplace.cafe) <br>
+- 🌵 [why.az](https://why.az) <br>
+- 🇺🇸 [usflags.design](https://usflags.design) <br>
+- 👕 [davidrose.style](https://davidrose.style)
+
+----
+
+[CodePen](https://codepen.io/lynnandtonic) | [Twitter](https://twitter.com/lynnandtonic) | [Dribbble](https://dribbble.com/lynnandtonic) | [Buy stickers on Etsy](https://www.etsy.com/shop/lynnandtonic) | ☕ [Buy me a coffee](https://www.buymeacoffee.com/lynnandtonic)
