@@ -4,15 +4,15 @@ Hi, I’m Lynn! I’m an artist, designer, and CSS developer making weird projec
 
 Check out some of my work:
 
-- ✨ [lynnandtonic.com](https://lynnandtonic.com) <br>
-- 🎨 [a.singlediv.com](https://a.singlediv.com) <br>
-- ✈ [airportcod.es](https://airportcod.es) <br>
-- 🔪 [topchefstats.com](https://topchefstats.com) <br>
-- 🎥 [hollywoodagegap.com](https://hollywoodagegap.com) <br>
-- 🍤 [thefoodplace.cafe](https://thefoodplace.cafe) <br>
-- 🌵 [why.az](https://why.az) <br>
-- 🇺🇸 [usflags.design](https://usflags.design) <br>
-- 👕 [davidrose.style](https://davidrose.style)
+✨ [lynnandtonic.com](https://lynnandtonic.com) <br>
+🎨 [a.singlediv.com](https://a.singlediv.com) <br>
+✈ [airportcod.es](https://airportcod.es) <br>
+🔪 [topchefstats.com](https://topchefstats.com) <br>
+🎥 [hollywoodagegap.com](https://hollywoodagegap.com) <br>
+🍤 [thefoodplace.cafe](https://thefoodplace.cafe) <br>
+🌵 [why.az](https://why.az) <br>
+🇺🇸 [usflags.design](https://usflags.design) <br>
+👕 [davidrose.style](https://davidrose.style)
 
 ----
 
