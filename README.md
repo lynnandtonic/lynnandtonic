@@ -16,4 +16,4 @@ Check out some of my work:
 
 ----
 
-[CodePen](https://codepen.io/lynnandtonic) | [Twitter](https://twitter.com/lynnandtonic) | [Dribbble](https://dribbble.com/lynnandtonic) | [Buy stickers on Etsy](https://www.etsy.com/shop/lynnandtonic) | ☕ [Buy me a coffee](https://www.buymeacoffee.com/lynnandtonic)
+[CodePen](https://codepen.io/lynnandtonic) | [Twitter](https://twitter.com/lynnandtonic) | [Dribbble](https://dribbble.com/lynnandtonic) | [Buy stickers + prints on Etsy](https://www.etsy.com/shop/lynnandtonic) | ☕ [Buy me a coffee](https://www.buymeacoffee.com/lynnandtonic)
